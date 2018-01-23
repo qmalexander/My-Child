@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title: My Child
+description: This is a website/app to enable schools to stay in contact with legal guardians.
+show_downloads: "true"
